@@ -28,6 +28,11 @@ Este repositorio agrupa múltiples scripts y aplicaciones orientadas a la extrac
 
 ## 📌 Proyectos destacados
 
+### ⚽ [Scraping resultados de fútbol](https://github.com/ibarajas248/analisis_de_datos_de_futbol)  
+Extrae resultados, goleadores y estadísticas desde AS.com, y los guarda en MySQL para análisis deportivo automatizado.
+
+ 
+
 ### 🎬 [TikTok Scraper](https://github.com/ibarajas248/scraping-tik-tok)  
 Automatiza la descarga de videos y comentarios desde TikTok, exportando los datos a Excel para análisis.
 
